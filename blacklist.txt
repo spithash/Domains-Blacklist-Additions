@@ -1,5 +1,5 @@
 googleadservices.com
-trendmicro.com
+*trendmicro.com*
 mpluswf.ims.vodafone.com
 mplus.ims.vodafone.com
 *163.com
