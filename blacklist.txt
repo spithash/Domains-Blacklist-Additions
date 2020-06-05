@@ -18,3 +18,4 @@ eth0.me
 ibpxl.com
 internetbrands.com
 motd.ubuntu.com
+trendmicro.com
